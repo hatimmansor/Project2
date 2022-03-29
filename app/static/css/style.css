@@ -1,0 +1,43 @@
+/* remove default margin and padding from body */
+body {
+  padding: 0;
+  margin: 0;
+}
+
+/* set map, body, and html to 100% of the screen size */
+#map
+
+ {
+    position: relative;
+  /* top: 10px;
+  left: 600px;   */
+  height: 600px;
+  width: 1140px;
+  margin-left: auto; 
+  margin-right: 0;
+}
+.flask
+
+ {
+    /* position: relative;  */
+  /* top: 10px;
+  left: 600px;   */
+  height: 600px;
+  width: 600px;
+  background-color: darkgray;
+  /* margin-left: 10px; */
+  /* top:240px; */
+  
+}
+.container
+
+ {
+    /* position: relative; */
+  /* top: 10px;
+  left: 600px;   */
+  background-color: darkgray;
+  /* margin-left: 0;  */
+  /* bottom:600px; */
+  /* left:600px; */
+  
+}

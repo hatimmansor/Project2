@@ -1,0 +1,9 @@
+﻿State,State_full,S_color,ZIP,Capital,Line_style,Crash ID,country,country,lat,lng
+0,NSW,New South Wales,#5B96B5,2000,Sydney,dashed,16238,AU,151.2073,-33.8679
+1,Vic,Victoria,#3C7FA3,3000,Melbourne,dashed,11499,AU,144.9633,-37.814
+2,Qld,Queensland,#A7CCDF,4000,Brisbane,solid,10423,AU,153.0281,-27.4679
+3,SA,South Australia,#76A9C4,5000,Adelaide,dashdot,4527,AU,138.6,-34.9333
+4,WA,Western Australia,#226C95,6000,Perth,solid,6236,AU,115.8333,-31.9
+5,Tas,Tasmania,#90BCD2,7000,Hobart,dotted,1535,AU,147.3294,-42.8794
+6,NT,Northern Territory,#3F3F3F,800,Darwin,dotted,1633,AU,130.8418,-12.4611
+7,ACT,Australian Capital Territory,#055785,2600,Canberra,dashdot,475,AU,149.1281,-35.2835
